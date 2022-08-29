@@ -1,7 +1,11 @@
-Proje MVC mimari kurallarına göre uygun paketlenmiştir. SOLID prensipleri kurallarına ve Nesne Tabanlı Programlama kurallarına uygun temiz kod çalışılmıştır.
+Müzik grubu ve şarkılarının tanıtıldığı android studio'da java ile geliştirilen telefon uygulamasıdır.
+
+Proje MVC mimari kurallarına göre uygun paketlenmiştir.
+SOLID prensipleri kurallarına ve Nesne Tabanlı Programlama kurallarına uygun temiz kod çalışılmıştır.
 Projede tüm string, renk ve boyutlar resourcelerden çekilmiştir.
 
 Proje 3 ekrandan oluşmakta
+
 E-1 Splash Ekranı:
   *3 saniye kendi tasarımım logo görünür.
   *İnternet kontrolü ile interneti olmayan kullanıcı ayarlara yönlendirilir.
